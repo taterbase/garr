@@ -1,0 +1,31 @@
+{
+  "name": "garr",
+  "version": "1.0.0",
+  "description": "Easy array iteration with async generators",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/taterbase/garr.git"
+  },
+  "keywords": [
+    "generators",
+    "array",
+    "arrays",
+    "async",
+    "iteration"
+  ],
+  "author": "taterbase",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taterbase/garr/issues"
+  },
+  "homepage": "https://github.com/taterbase/garr",
+  "devDependencies": {
+    "assert": "^1.1.2",
+    "gnode": "^0.1.0",
+    "thunkify": "^2.1.2"
+  }
+}
